@@ -1,0 +1,405 @@
+.taskSection{
+    background-color: white;
+    padding: 25px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+    font-family: Arial, sans-serif;
+}
+.taskSection:hover{
+    transform: translateY(-8px);
+    box-shadow: 0px 8px 18px rgba(0,0,0,0.2);
+}
+.infoBox{
+    background-color: #dbeafe;
+    padding: 15px;
+    margin-top: 15px;
+    border-left: 5px solid #2563eb;
+}
+body{
+    background-color: #eef2f7;
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+.taskSection{
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+/* Event Box Styling */
+.eventBox{
+    border: 1px solid #cccccc;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    background-color: #f9fafc;
+}
+h3{
+    color: #005eff;
+    margin-bottom: 10px;
+}
+p{
+    color: #444;
+    line-height: 25px;
+}
+/* Style for main CTA button */
+.joinBtn{
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    margin-top: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.joinBtn:hover{
+    background-color: #0056cc;
+}
+/*Task 3 Styling */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Body Styling */
+body{
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+/* Element Selector */
+h2{
+    color: #005eff;
+    margin-bottom: 20px;
+}
+/* ID Selector */
+#mainHeader{
+    background-color: navy;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+/* Class Selector */
+.eventCard{
+    border: 1px solid gray;
+    padding: 20px;
+    margin-bottom: 15px;
+    background-color: white;
+}
+/* Grouping Selector */
+h3,p{
+
+    text-align: center;
+}
+/*Task4 Styling */
+body{
+    background-color: #dbeafe;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+.taskSection{
+    background-color: rgba(255,255,255,0.8);
+    padding: 25px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+.bgTask{
+    background-image: url("comevent.jpg");
+    background-size: cover;
+    background-position: center;
+}
+/* Gradient Styling */
+h2{
+    background: linear-gradient(to right, #005eff, #4facfe);
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+}
+/* Color Box */
+.colorBox{
+    background-color: rgba(0, 128, 255, 0.5);
+    color: #111111;
+    padding: 20px;
+    margin-top: 20px;
+}
+/*task 5 styling */
+body{
+    background-color: #f4f4f4;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+}
+/* Task Section */
+.taskSection{
+    background-color: white;
+    padding: 25px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+h2{
+    background: linear-gradient(to right, #005eff, #4facfe);
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+/* Typography Styling */
+.textStyle{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    line-height: 35px;
+    color: #333333;
+}
+/* task 6 styling */
+body{
+    background-color: #f4f4f4;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+}
+.taskSection{
+    background-color: white;
+    padding: 25px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+h2{
+    background: linear-gradient(to right, #005eff, #4facfe);
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+/* Navigation Menu */
+.navMenu{
+    list-style-type: none;
+    margin-bottom: 25px;
+}
+.navMenu li{
+    display: inline-block;
+    margin-right: 20px;
+    padding: 8px;
+}
+/* Link Styling */
+a{
+    text-decoration: none;
+}
+a:link{
+    color: blue;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: green;
+}
+a:visited{
+    color: purple;
+}
+/* Event List */
+.eventList{
+    list-style-type: square;
+    list-style-position: inside;
+    margin-top:20px;
+}
+.eventList li{
+    margin: 10px;
+    padding: 5px;
+}
+/* task 7 styling */
+body{
+    background-color: #f4f4f4;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+}
+.taskSection{
+    background-color: white;
+    padding: 25px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+h2{
+    background: linear-gradient(to right, #005eff, #4facfe);
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+/* Table Styling */
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+/* Table Head and Data */
+th,td{
+    border: 1px solid gray;
+    padding: 12px;
+}
+/* Table Header Background */
+th{
+    background-color: #005eff;
+    color: white;
+}
+/* Zebra Striping */
+tr:nth-child(even){
+    background-color: #e8f0ff;
+}
+/* task 8 styling */
+body{
+    background-color: #f4f4f4;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+}
+.taskSection{
+    background-color: white;
+    padding: 25px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+h2{
+    background: linear-gradient(to right, #005eff, #4facfe);
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+   margin-bottom: 20px;
+}
+.eventCard{
+    border: 2px solid #005eff;
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #eef4ff;
+    text-align: center;
+}
+/* Input Outline */
+input:focus{
+   outline: 3px solid orange;
+}
+.hiddenBox{
+    visibility: hidden;
+    background-color: lightgray;
+    padding: 10px;
+}
+.noneBox{
+    display: none;
+    background-color: lightblue;
+    padding: 10px;
+}
+/* task 9 styling */
+body{
+    background-color: #f4f4f4;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+}
+.taskSection{
+    background-color: white;
+    padding: 25px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+h2{
+    background: linear-gradient(to right, #005eff, #4facfe);
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+/* Multiple Columns */
+.newsSection{
+    column-count: 2;
+    column-gap: 10px;
+    column-rule: 1px solid gray;
+    text-align: justify;
+    line-height: 28px;
+}
+/* task 10 styling */
+body{
+    background-color: #f4f4f4;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+}
+.taskSection{
+    background-color: white;
+    padding: 25px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+h2{
+    background: linear-gradient(to right, #005eff, #4facfe);
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+/* Navigation Menu */
+.navMenu{
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+.navMenu li{
+    display: inline-block;
+    margin-right: 20px;
+}
+/* Image Styling */
+img{
+    width: 50%;
+    height: auto;
+    margin-top: 20px;
+}
+/* Paragraph */
+.contentText{
+    margin-top: 20px;
+    font-size: 20px;
+}
+/* Media Query */
+@media screen and (max-width:768px){
+    .navMenu li{
+        display: block;
+       margin-bottom: 10px;
+    }
+    img{
+        width: 100%;
+    }
+    .contentText{
+        font-size: 14px;
+    }
+}
+/* task 11 styling */
+body{
+    background-color: #f4f4f4;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+}
+.taskSection{
+    background-color: white;
+    padding: 25px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+h2{
+    background: linear-gradient(to right, #005eff, #4facfe);
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+   margin-bottom: 20px;
+}
+p{
+    font-size: 18px;
+    line-height: 28px;
+    color: #333;
+}
