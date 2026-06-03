@@ -608,7 +608,7 @@ public class AllJavaTasks {
         }
     }
 
-    // Task 31
+    /*// Task 31
     static Connection getConnection()
             throws Exception {
 
@@ -642,10 +642,11 @@ public class AllJavaTasks {
 
         con.close();
     }
-
+*/
+    /* 
     // Task 32
     static void task32() throws Exception {
-
+ 
         Connection con = getConnection();
 
         PreparedStatement ps =
@@ -665,7 +666,9 @@ public class AllJavaTasks {
 
         con.close();
     }
-
+*/
+   
+   /*
     // Task 33
     static void task33() throws Exception {
 
@@ -699,6 +702,7 @@ public class AllJavaTasks {
 
         con.close();
     }
+    */
 
     // Task 34
     static void task34() {
